@@ -25,9 +25,8 @@ Nearby is a mobile application that allows you to find nearby places, such as re
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Interactive Maps – See nearby places on an interactive map to easily navigate to your chosen destination.\
+:heavy_check_mark: External API Integration – Place data is provided by external APIs.
 
 ## :rocket: Technologies
 
@@ -49,23 +48,38 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/evertonab28/nearby
 
-# Access
-$ cd nearby
-
 # Install dependencies
-$ yarn
+$ npm i
 
 # Run the project
-$ yarn start
+$ npx expo start
 
-# The server will initialize in the <http://localhost:3000>
+# Extract the api project that is in the root of the repository, enter the api folder and install dependencies
+$ `npm i`
+
+# Start the server
+$ npm start
 ```
+
+## :camera: Screenshots
+
+<div id="top"> 
+  <img src="screenshots/welcome.png" height=400 alt="Nearby" />
+  <img src="screenshots/home.png" height=400 alt="Nearby" />
+  <img src="screenshots/details1.png" height=400 alt="Nearby" />
+  <img src="screenshots/details2.png" height=400 alt="Nearby" />
+</div>
 
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/evertonab28" target="_blank">Everton A. B.</a>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/evertonab28"><img src="https://avatars.githubusercontent.com/u/42456197?s=400&u=a15f0727b6b48e51490a0cc10953dad4fc00bc60&v=4" width="100px;" alt=""/><br /><sub><b>Everton A. B.</b></sub></a><br /> <a href="https://github.com/evertonab28" title="Author">😎</a></td>
+  </tr>
+  
+</table>
 
 &#xa0;
 
