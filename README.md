@@ -66,6 +66,8 @@ $ npm start
 <div id="top"> 
   <img src="screenshots/welcome.PNG" height=400 alt="Nearby" />
   <img src="screenshots/home.PNG" height=400 alt="Nearby" />
+  <img src="screenshots/details1.PNG" height=400 alt="Nearby" />
+  <img src="screenshots/details2.PNG" height=400 alt="Nearby" />
 </div>
 
 ## :memo: License
