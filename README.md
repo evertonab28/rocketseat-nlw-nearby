@@ -64,8 +64,8 @@ $ npm start
 ## :camera: Screenshots
 
 <div id="top"> 
-  <img src="screenshots/welcome.png" height=400 alt="Nearby" />
-  <img src="screenshots/home.png" height=400 alt="Nearby" />
+  <img src="screenshots/welcome.PNG" height=400 alt="Nearby" />
+  <img src="screenshots/home.PNG" height=400 alt="Nearby" />
 </div>
 
 ## :memo: License
